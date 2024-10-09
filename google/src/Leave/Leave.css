@@ -1,0 +1,21 @@
+.leave{
+    padding: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-shadow: 0cm;
+    background-color: azure;
+    width:717px;
+    height:270px;
+}
+
+.totalleave{
+    padding: 70px;
+    margin-top: 20px;
+    margin-left: 10px;
+    box-shadow: 10cm;
+    background-color: rgb(156, 246, 246);
+    width:417px;
+    margin-left: 720px;
+    margin-top: -260px;
+    text-align: left;
+}
